@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "77c1c5f01f3431d0d68ae98d6160a4d8"
+    "revision": "7d2572fdc2c1ebb05cee414d3a4b5864"
   },
   {
     "url": "apoiadores/code:nation.png",
@@ -32,8 +32,20 @@ self.__precacheManifest = [
     "revision": "2d04561e8106e88eeca5a92f558d9372"
   },
   {
-    "url": "assets/css/0.styles.f9150d2a.css",
-    "revision": "98105fa46e6b70b231f4d7eec86296f9"
+    "url": "apoiadores/softplan.png",
+    "revision": "7c4a45347c37fbbbe513c7d1967d9a75"
+  },
+  {
+    "url": "apoiadores/stickerdevs.png",
+    "revision": "e6dc97e340e9f773497cbc9a5e428a17"
+  },
+  {
+    "url": "apoiadores/valtech.png",
+    "revision": "c5d8c9e4879264e13a7e83061f83b211"
+  },
+  {
+    "url": "assets/css/0.styles.957349d2.css",
+    "revision": "d58607b333e774798a866cb828e869f5"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -44,8 +56,8 @@ self.__precacheManifest = [
     "revision": "2537ecb3e755fe6d1559ef387a74478e"
   },
   {
-    "url": "assets/js/2.7e48f9e0.js",
-    "revision": "4fee85c7d25334abe4cfbe0af6e46786"
+    "url": "assets/js/2.7b3feb7e.js",
+    "revision": "7311d576b952c0a7297916dd9a7e047a"
   },
   {
     "url": "assets/js/3.9827cab0.js",
@@ -64,28 +76,28 @@ self.__precacheManifest = [
     "revision": "95e0153aca71b26146aed38d46ec9936"
   },
   {
-    "url": "assets/js/app.37c2eddd.js",
-    "revision": "b6e8145ebcdd1c2e714baf6a11bb22f1"
+    "url": "assets/js/app.12828bc3.js",
+    "revision": "9733d7cb2fea402b2b44e6be1e845d77"
   },
   {
     "url": "edicoes/1-vuefloripa.html",
-    "revision": "a57ce9b249d1e0f274d9e32aa6b92597"
+    "revision": "aa9166b7449f622b562fc1461d042d6c"
   },
   {
     "url": "edicoes/2-vuefloripa.html",
-    "revision": "460a2c9821f10dd5751bd44a9c0947d1"
+    "revision": "b9102509604ee5e431ec1c8a76c17fe6"
   },
   {
     "url": "edicoes/3-vuefloripa.html",
-    "revision": "d087c357af5e7241a8c51ab6f76841dd"
+    "revision": "f5c8a97ff7b1eaa4d0229eecf7a51f0a"
   },
   {
     "url": "edicoes/index.html",
-    "revision": "95a61572794065a5617bf2ceaa7ac63f"
+    "revision": "92eb6b1200bba7114f8bc323f89b9ad7"
   },
   {
     "url": "index.html",
-    "revision": "d6cc119e6cd466155db1ff04331cc81b"
+    "revision": "65e13c339cb894f69ac41ec4d055e742"
   },
   {
     "url": "logo.png",
@@ -93,7 +105,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sobre/index.html",
-    "revision": "8438d525ce7d4709850132313c8611f8"
+    "revision": "45cc58e55336c4ebb924eea3a8189357"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
